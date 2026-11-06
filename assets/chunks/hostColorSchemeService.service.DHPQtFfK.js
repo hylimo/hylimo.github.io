@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime.BCiCTKAo.js";import{RA as t,zA as n}from"./standaloneServices.BkZk2JcU.js";var r,i=e((()=>{n(),r=t(`hostColorSchemeService`)}));export{i as n,r as t};
